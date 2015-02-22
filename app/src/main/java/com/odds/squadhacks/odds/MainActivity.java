@@ -52,4 +52,9 @@ public class MainActivity extends ActionBarActivity {
         i.putExtra("odds", odds);
         startActivity(i);
     }
+
+    public void add_friend(string friend){
+       //find users in the database
+        //send them a friend request
+    }
 }
